@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Ofosuhene</h1>
-<h3 align="center">A Full stack software engineer from Ghana, passionate about developing production-ready applications with 3+ years professional onsite as well as remote job experience.</h3>
+<h3 align="center">A Full-Stack software engineer from Ghana, passionate about developing production-ready applications with 3+ years professional
+ onsite as well as remote job experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poapenteng&label=Profile%20views&color=0e75b6&style=flat" alt="poapenteng" /> </p>
 
